@@ -1,6 +1,6 @@
 # Polish Hostel Assistant
 
-An AI-powered hostel search assistant for discovering hostels in Poland. Ask questions in plain language - "find cheap hostels in Krakow for next weekend" or "budget hostels in Warsaw under 50 PLN" - and the assistant searches the web in real-time to find current hostel options with prices, ratings, and booking links.
+An AI-powered hostel search assistant for discovering hostels in Poland. Ask questions in plain language - "find cheap hostels in Krakow for next weekend" or "budget hostels in Warsaw under 50 PLN" - and the assistant searches the web in real-time to find current hostel options with prices, ratings, and hostel web links.
 
 Built with Micronaut 4, LangChain4j, OpenAI, and Tavily Search API.
 
